@@ -11,6 +11,14 @@
   	<module>cohort-model</module>
   	<module>cohort-ws</module>
   </modules>
+  <project>
+  ...
+  <build>
+    <defaultGoal>install</defaultGoal>
+    ...
+  </build>
+  ...
+</project>
   
   <repositories>
   	<repository>
